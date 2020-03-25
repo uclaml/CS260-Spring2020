@@ -75,7 +75,7 @@ Please submit your homework on time. Homework is worth full credit before the du
 There will be one midterm. The exam is closed book exam. You will be allowed four pages of $8.5$ inch $\times 11$ inch cheating sheets.
 
 ## Quiz
-There will be 5 in-class pop-up quiz for the purpose of reviewing the newly learned concepts. The quizzes are closed book and closed notes. No electronic aids or cheat sheets are allowed.
+There will be 5 in-class pop-up quiz for the purpose of reviewing the newly learned concepts. The quizzes are closed book and closed notes. No electronic aids or cheat sheets are allowed. We will drop the lowest quiz score for you.
 
 ## Project
 Students are required to do a project in this class. The goal of the course project is to provide the students an opportunity to explore research directions in optimization or machine learning. Therefore, the project should be related to the course content. An expected project consists of
