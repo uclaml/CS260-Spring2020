@@ -1,70 +1,88 @@
 
 ## Overview
-This course introduces the design of intelligent agents, including the fundamental problem-solving and knowledge-representation paradigms of artificial intelligence. Topics to be covered include the AI programming language LISP, state-space and problem reduction methods, brute-force and heuristic search, two-player games, and recent developments in game AI. For knowledge representation and reasoning, we will cover propositional and first-order logic and their inference algorithms. Finally, the course covers probabilistic approaches to AI, such as Bayesian networks to improve the agent’s performance with experience.
+This course introduces the foundational theory and algorithms of machine learning. The goal of this course is to endow the student with a) a solid understanding of the foundational concepts of machine learning, and b) the ability to derive and analyze machine learning algorithms. Topics to be covered include online learning, PAC learning, Agnostic PAC learning, boosting, structural risk minimization, decision trees, surrogate loss functions and empirical risk minimization, stochastic gradient descent, support vector machines, kernel methods, multi-class classification, neural networks, dimensionality reduction, and clustering etc. Lecture notes, homework assignments will be released on CCLE and Piazza. Homework solutions will be released on CCLE.
+
 ## Prerequisites
-This course requires knowledge of basic computer science, algorithms and complexity (CS180), and programming principles.
+Two years of college mathematics, including calculus, linear algebra, probability and statistics, and the ability to write computer programs.
+
+## Textbook:
+Shalev-Shwartz, Shai, and Shai Ben-David. Understanding machine learning: From theory to algorithms. Cambridge University Press, 2014.
+
 ## Logistics
 <!--University of California, Los Angeles  -->
-- Time: **Monday and Wednesday 4:00PM - 5:50PM**
-- Location: **FRANZ 1178**  
+- Time: **Monday and Wednesday 2:00PM - 3:50PM**
+- Location: **Online**  
 - Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu at cs dot ucla dot edu)   
-- Teaching Assistant: 
-    - Shirley Chen (Email: shirleychen at cs dot ucla dot edu)
-    - [Yewen Wang](https://sites.google.com/view/wyw10804/home/win20cs161?authuser=0) (Email: wyw10804 at cs dot ucla dot edu)
-    - [Chi Zhang](http://web.cs.ucla.edu/~zccc/cs161.html) (Email: zccc at cs dot ucla dot edu)
-    - [Dongruo Zhou](https://sites.google.com/view/drzhou) (Email: drzhou at cd dot ucla dot edu)
+- Teaching Assistant: [Yewen Wang](https://sites.google.com/view/wyw10804/home/spr20cs260) (Email: wyw10804 at gmail dot com)
+   
 - Office hours: 
-    - The instructor's office hour is Thursday 1:30pm-2:30pm at Engineering VI 282. 
-    - The TA's office hour is: 
-        - Yewen Wang, Monday 9:00am-11:00am at Bolter Hall 3256S-A
-        - Dongruo Zhou, Tuesday 15:00pm-17:00pm at Bolter Hall 3256S-A
-        - Shirley Chen, Wednesday 11:00am-1:00pm at Bolter Hall 3256S-B
-        - Chi Zhang, Thursday 9:00am-11:00am at Bolter Hall 3256S-A.
-- Course Website: [https://uclaml.github.io/CS161-Winter2020/](https://uclaml.github.io/CS161-Winter2020/)
-- Course Forum: [https://piazza.com/ucla/winter2020/cs161/home](https://piazza.com/ucla/winter2020/cs161/home)
-(If you haven’t already, [sign up here](piazza.com/ucla/winter2020/cs161).)
+    - The instructor's office hour is Thursday 1:30pm-2:30pm, online. 
+    - The TA's office hour is Tuesday 9:00am-11:00am, online
+  
+- Course Website: [https://uclaml.github.io/CS260-Spring2020/](https://uclaml.github.io/CS260-Spring2020/)
+- Course Forum: []()
+(If you haven’t already, [sign up here]().)
 
 ## Grading Policy
  
 Grades will be computed based on the following factors:
-- Homework 20%
-- Midterm 35%
-- Final 45%
+- Homework 35%
+- Quiz 5%
+- Midterm 30%
+- Final Project 30%
 
 ## Schedule
 
 
 | # | Date | Topics | Reading | Homework |
 | - | ---- | ------ | ------- | -------- |
-| 1 | 1/6 | [About Course](https://www.dropbox.com/s/narnejmu9t4lxzl/Lecture0.pdf?dl=0), [Introduction: What is AI?](https://www.dropbox.com/s/un41l1tbcwryhcp/1-intro.pptx?dl=0) | Chapter 1,2 | |
-| 2 | 1/8 | [LISP](https://www.dropbox.com/s/i8zfup6vyg7slz9/Lecture02.pptx?dl=0) | | |
-| 3 | 1/13 | [Problem solving as search & Uninformed search strategies](https://www.dropbox.com/s/u7pk97puanbk219/Lecture3.pdf?dl=0) | Chapter 3 | |
-| 4 | 1/15 | [Informed search strategies](https://www.dropbox.com/s/vksvsdc1t4b6s3q/Lecture4.pdf?dl=0) | Chapter 3 | HW1 Out |
-| | 1/20 | Martin Luther King, Jr. holiday | | |
-| 5 | 1/22 | [Informed search strategies](https://www.dropbox.com/s/vksvsdc1t4b6s3q/Lecture4.pdf?dl=0), [Local Search Algorithms](https://www.dropbox.com/s/6orvbrpv3bm6dtw/Lecture5.pdf?dl=0)| Chapter 3,4,11 | HW1 Due, HW2 Out |
-| 6 | 1/27 | [Local Search Algorithms](https://www.dropbox.com/s/6orvbrpv3bm6dtw/Lecture5.pdf?dl=0) | Chapter 4 | |
-| 7 | 1/29 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | |
-| 8 | 2/3 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | HW2 Due, HW3 Out |
-| 9 | 2/5 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | |
-| 10 | 2/10 | [Game playing](https://www.dropbox.com/s/1h9scrlorvdmnpf/Lecture7.pdf?dl=0) | Chapter 5 | |
-| 11 | 2/12 | [Game playing](https://www.dropbox.com/s/1h9scrlorvdmnpf/Lecture7.pdf?dl=0) | Chapter 5 | HW3 Due, Hw4 Out |
-| | 2/17 | President's Day | | |
-| 12 | 2/19 | [Propositional logic](https://www.dropbox.com/s/7uevivcb05kwmt6/Lecture8.pdf?dl=0) | Chapter 7 | |
-| | 2/24 | [Midterm Exam](https://www.dropbox.com/s/lhk376z72t6acfy/CS161%20Study%20Guide.docx?dl=0) | | |
-| 13 | 2/26 | [Propositional logic](https://www.dropbox.com/s/7uevivcb05kwmt6/Lecture8.pdf?dl=0), [first order logic: representation](https://www.dropbox.com/s/weocjgar0rkx2n8/Lecture9.pdf?dl=0) | Chapter 7, 8 | HW5 Out |
-| 14 | 3/2 | [First-order logic: representation](https://www.dropbox.com/s/weocjgar0rkx2n8/Lecture9.pdf?dl=0), [First-order logic: inference](https://www.dropbox.com/s/2k7lnkw4xm1f5o1/Lecture10.pdf?dl=0) | Chapter 8, 9 | HW4 Due |
-| 15 | 3/4 | [First-order logic: inference](https://www.dropbox.com/s/2k7lnkw4xm1f5o1/Lecture10.pdf?dl=0), [Reasoning under uncertainty](https://www.dropbox.com/s/44mbwa9eirsfi1y/Lecture11.pdf?dl=0) | Chapter 9, 13 | HW6 Out (on 3/8) |
-| 16 | 3/9 | [Reasoning under uncertainty](https://www.dropbox.com/s/44mbwa9eirsfi1y/Lecture11.pdf?dl=0), [Bayesian Networks](https://www.dropbox.com/s/v3gvzvl29fadyl6/Lecture12.pdf?dl=0) | Chapter 13, 14 | HW5 Due |
-| 17 | 3/11 | [Bayesian Networks: Inference](https://www.dropbox.com/s/9ja8sb2uwbf1ne9/Lecture13.pdf?dl=0) | Chapter 14 | |
-| | 3/16 |  | | HW6 Due |
-| | 3/20 | [Final Exam](https://www.dropbox.com/s/yzq50zntu772gqt/CS161%20Study%20Guide.docx?dl=0) | | |
+| 1 | 3/30 | Introduction | Chapter 1 | |
+| 2 | 4/1 | Empirical Risk Minimization | Chapter 2 | |
+| 3 | 4/6 | PAC Learning | Chapter 3 | HW1 Out |
+| 4 | 4/8 | Agnostic PAC Learning | Chapter 4 | |
+| 5 | 4/13 | Uniform Convergence| Chapter 4 | |
+| 6 | 4/15 | Bias-Complexity Tradeoff | Chapter 5, 11 | HW1 Due, HW2 Out |
+| 7 | 4/20 | VC dimension | Chapter 6 | |
+| 8 | 4/22 | Nonuniform Learnability | Chapter 7 | |
+| 9 | 4/27 | Perceptron/Linear regression | Chapter 9 | |
+| 10 | 4/29 | Nearest Neighbors | Chapter 19 | HW2 Due, HW3 Out |
+| 11 | 5/4 | Decision Trees | Chapter 18 | |
+| 12 | 5/6 | Boosting | Chapter 10 | |
+| | 5/11 | Midterm Exam | | |
+| 13 | 5/13 | Convex Learning and SGD | Chapter 12, 14 | Project Proposal Due |
+| 14 | 5/18 | Regularization Stability | Chapter 13 | HW3 Due, HW4 Out |
+| 15 | 5/20 | Support Vector Machines | Chapter 15 | |
+| | 5/25 | Memorial Day Holiday | | HW4 Due, HW5 Out |
+| 16 | 5/27 | Kernel Methods | Chapter 16 | |
+| 17 | 6/1 | Multi-class Classification | Chapter 17 | |
+| 18 | 6/3 | Clustering | Chapter 22 | HW5 Due |
+| | TBA | Final Project Presentation | |  |
+| | TBA | | | Project Report Due |
 
 ## Academic Integrity Policy
 Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
 
 ## Homework
-There will be about 6 homework assignments during the semester as we cover the corresponding material. Homework consists of both problem solving and LISP programming. The lowest homework score will be dropped for you.
+There will be about 6 homework assignments during the semester as we cover the corresponding material. Homework consists of both mathematical derivation, algorithm analysis and programming. Homework is required to be written in Latex. Latex homework template will be provided. The lowest homework score will be dropped for you.
 
-Unless otherwise indicated, you may talk to other students about the homework problems but each student must hand in their own answers and write their own code in the programming part. You also must indicate on each homework with whom you collaborated and cite any other sources you use including Internet websites. Students should never see another student's solution before submitting their own. Students cannot use old solution sets for this class or solution manual to the textbook under any circumstances.Homework assignments will be submitted through CCLE/Gradescope. 
+Unless otherwise indicated, you may talk to other students about the homework problems but each student must hand in their own answers and write their own code in the programming part. You also must indicate on each homework with whom you collaborated and cite any other sources you use including Internet sites. Students cannot use old solution sets for this class or solution manual to the textbook under any circumstances.
+
+Homework assignments will be submitted through Gradescope. You should have received an invite to Gradescope after you get enrolled in this class. Login via the invite, and submit the homework assignments on time. 
 
 Please submit your homework on time. Homework is worth full credit before the due date. It is worth zero credit after the due date.
+
+## Exam
+There will be one midterm. The exam is closed book exam. You will be allowed four pages of $8.5$ inch $\times 11$ inch cheating sheets.
+
+## Quiz
+There will be 5 in-class pop-up quiz for the purpose of reviewing the newly learned concepts. The quizzes are closed book and closed notes. No electronic aids or cheat sheets are allowed.
+
+## Project
+Students are required to do a project in this class. The goal of the course project is to provide the students an opportunity to explore research directions in optimization or machine learning. Therefore, the project should be related to the course content. An expected project consists of
+• A novel and sound solution to an interesting problem
+• Comprehensive literature review and discussion
+• Thorough theoretical/experimental evaluation and comparisons with existing approaches
+The best outcome of the project is a manuscript that is publishable in major machine learning conferences (COLT, ICML, NIPS, ICLR, AISTATS, UAI etc.) or journals (Journal of Machine Learning Research).
+
+Please refer to [syllabus](https://www.dropbox.com/s/78glwae0a8uy5pd/CS_260_Machine_Learning.pdf?dl=0) for more details.
+
