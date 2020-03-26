@@ -72,7 +72,7 @@ Homework assignments will be submitted through Gradescope. You should have recei
 Please submit your homework on time. Homework is worth full credit before the due date. It is worth zero credit after the due date.
 
 ## Exam
-There will be one midterm. The exam is closed book exam. You will be allowed four pages of $8.5$ inch $\times 11$ inch cheating sheets.
+There will be one midterm. The exam is a take-home, open-book exam. 
 
 ## Quiz
 There will be 6 in-class pop-up quiz for the purpose of reviewing the newly learned concepts. The quizzes are closed book and closed notes. No electronic aids or cheat sheets are allowed. We will drop the lowest quiz score for you.
