@@ -82,7 +82,7 @@ Students are required to do a project in this class. The goal of the course proj
 • A novel and sound solution to an interesting problem
 • Comprehensive literature review and discussion
 • Thorough theoretical/experimental evaluation and comparisons with existing approaches
-The best outcome of the project is a manuscript that is publishable in major machine learning conferences (COLT, ICML, NIPS, ICLR, AISTATS, UAI etc.) or journals (Journal of Machine Learning Research).
+The best outcome of the project is a manuscript that is publishable in major machine learning conferences (COLT, ICML, NeurIPS, ICLR, AISTATS, UAI etc.) or journals (Journal of Machine Learning Research).
 
 Please refer to [syllabus](https://www.dropbox.com/s/78glwae0a8uy5pd/CS_260_Machine_Learning.pdf?dl=0) for more details.
 
