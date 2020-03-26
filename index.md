@@ -20,8 +20,8 @@ Shalev-Shwartz, Shai, and Shai Ben-David. Understanding machine learning: From t
     - The TA's office hour is Tuesday 9:00am-11:00am, online
   
 - Course Website: [https://uclaml.github.io/CS260-Spring2020/](https://uclaml.github.io/CS260-Spring2020/)
-- Course Forum: []()
-(If you haven’t already, [sign up here]().)
+- Course Forum: [piazza.com/ucla/spring2020/cs260/home](piazza.com/ucla/spring2020/cs260/home)
+(If you haven’t already, [sign up here](piazza.com/ucla/spring2020/cs260).)
 
 ## Grading Policy
  
