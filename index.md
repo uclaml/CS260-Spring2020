@@ -72,7 +72,7 @@ Homework assignments will be submitted through Gradescope. You should have recei
 Please submit your homework on time. Homework is worth full credit before the due date. It is worth zero credit after the due date.
 
 ## Exam
-There will be one midterm. The exam is a take-home, open-book exam. 
+There will be one midterm. The exam is a take-home, 24-hours, open-book exam. If you need a makeup exam, please email us by May 1st.
 
 ## Quiz
 There will be 6 in-class pop-up quiz for the purpose of reviewing the newly learned concepts. The quizzes are closed book and closed notes. No electronic aids or cheat sheets are allowed. We will drop the lowest quiz score for you.
