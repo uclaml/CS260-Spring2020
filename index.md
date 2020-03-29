@@ -13,7 +13,7 @@ Shalev-Shwartz, Shai, and Shai Ben-David. Understanding machine learning: From t
 - Time: **Monday and Wednesday 2:00PM - 3:50PM**
 - Location: **Online**  
 - Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu at cs dot ucla dot edu)   
-- Teaching Assistant: [Yewen Wang](https://sites.google.com/view/wyw10804/home/spr20cs260) (Email: wyw10804 at gmail dot com)
+- Teaching Assistant: Yewen Wang (Email: wyw10804 at gmail dot com)
    
 - Office hours: 
     - The instructor's office hour is Thursday 1:30pm-2:30pm, online. 
