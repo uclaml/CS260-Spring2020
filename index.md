@@ -16,7 +16,7 @@ Shalev-Shwartz, Shai, and Shai Ben-David. Understanding machine learning: From t
 - Teaching Assistant: Yewen Wang (Email: wyw10804 at gmail dot com)
    
 - Office hours: 
-    - The instructor's office hour is Thursday 1:30pm-2:30pm, online. 
+    - The instructor's office hour is Thursday 9:30am-10:30am, online. 
     - The TA's office hour is Tuesday 9:00am-11:00am, online
   
 - Course Website: [https://uclaml.github.io/CS260-Spring2020/](https://uclaml.github.io/CS260-Spring2020/)
