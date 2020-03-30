@@ -36,7 +36,7 @@ Grades will be computed based on the following factors:
 
 | # | Date | Topics | Reading | Homework |
 | - | ---- | ------ | ------- | -------- |
-| 1 | 3/30 | [Introduction](https://www.dropbox.com/s/pmopdfpr859e37k/Lecture1.pdf?dl=0) | Chapter 1 | |
+| 1 | 3/30 | [Introduction](https://www.dropbox.com/s/rnbu9c51bfne48o/Lecture1.pdf?dl=0) | Chapter 1 | |
 | 2 | 4/1 | Empirical Risk Minimization | Chapter 2 | |
 | 3 | 4/6 | PAC Learning | Chapter 3 | HW1 Out |
 | 4 | 4/8 | Agnostic PAC Learning | Chapter 4 | |
