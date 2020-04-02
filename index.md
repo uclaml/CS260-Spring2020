@@ -1,6 +1,6 @@
 
 ## Overview
-This course introduces the foundational theory and algorithms of machine learning. The goal of this course is to endow the student with a) a solid understanding of the foundational concepts of machine learning, and b) the ability to derive and analyze machine learning algorithms. Topics to be covered include empirical risk minimization, PAC learning, Agnostic PAC learning, perceptron, linear regression, nearest neighbors, decision trees, boosting, structural risk minimization, surrogate loss functions, stochastic gradient descent, support vector machines, kernel methods, multi-class classification, and clustering etc. Lecture notes, homework assignments will be released on CCLE and this website. Homework solutions will only be released on CCLE.
+This course introduces the foundational theory and algorithms of machine learning. The goal of this course is to endow the student with a) a solid understanding of the foundational concepts of machine learning, and b) the ability to derive and analyze machine learning algorithms. Topics to be covered include empirical risk minimization, PAC learning, Agnostic PAC learning, perceptron, linear regression, nearest neighbors, decision trees, boosting, structural risk minimization, surrogate loss functions, stochastic gradient descent, support vector machines, kernel methods, multi-class classification, and clustering etc. Slides and homework assignments will be released on CCLE and this website. Homework solutions will only be released on CCLE.
 
 ## Prerequisites
 Two years of college mathematics, including calculus, linear algebra, probability and statistics, and the ability to write computer programs.
@@ -36,9 +36,9 @@ Grades will be computed based on the following factors:
 
 | # | Date | Topics | Reading | Homework |
 | - | ---- | ------ | ------- | -------- |
-| 1 | 3/30 | Introduction ([slide](https://www.dropbox.com/s/rnbu9c51bfne48o/Lecture1.pdf?dl=0)) | Chapter 1, 2.1 | [HW1 Out](https://www.dropbox.com/s/fc0ek06bqvnndnk/HW1.pdf?dl=0) |
-| 2 | 4/1 | Empirical Risk Minimization ([slide](https://www.dropbox.com/s/qqz83tl4oovf2sx/Lecture2.pdf?dl=0))([Annotated](https://www.dropbox.com/s/5luo12khex046pg/Lecture2_annotated.pdf?dl=0)) | Chapter 2 | |
-||4/3| TA Session Week 1 ([slide](https://www.dropbox.com/s/q3yrzly1a6b7o5r/Week1.pdf?dl=0))
+| 1 | 3/30 | Introduction ([slides](https://www.dropbox.com/s/rnbu9c51bfne48o/Lecture1.pdf?dl=0)) | Chapter 1, 2.1 | [HW1 Out](https://www.dropbox.com/s/fc0ek06bqvnndnk/HW1.pdf?dl=0) |
+| 2 | 4/1 | Empirical Risk Minimization ([slides](https://www.dropbox.com/s/qqz83tl4oovf2sx/Lecture2.pdf?dl=0))([Annotated](https://www.dropbox.com/s/5luo12khex046pg/Lecture2_annotated.pdf?dl=0)) | Chapter 2 | |
+||4/3| TA Session Week 1 ([slides](https://www.dropbox.com/s/q3yrzly1a6b7o5r/Week1.pdf?dl=0))
 | 3 | 4/6 | PAC Learning | Chapter 3 | |
 | 4 | 4/8 | Agnostic PAC Learning | Chapter 4 | |
 | 5 | 4/13 | Uniform Convergence| Chapter 4 | |
