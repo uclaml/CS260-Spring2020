@@ -39,7 +39,7 @@ Grades will be computed based on the following factors:
 | 1 | 3/30 | Introduction ([slides](https://www.dropbox.com/s/rnbu9c51bfne48o/Lecture1.pdf?dl=0)) | Chapter 1, 2.1 | [HW1 Out](https://www.dropbox.com/s/fc0ek06bqvnndnk/HW1.pdf?dl=0) |
 | 2 | 4/1 | Empirical Risk Minimization ([slides](https://www.dropbox.com/s/qqz83tl4oovf2sx/Lecture2.pdf?dl=0))([Annotated](https://www.dropbox.com/s/5luo12khex046pg/Lecture2_annotated.pdf?dl=0)) | Chapter 2 | |
 ||4/3| TA Session Week 1 ([slides](https://www.dropbox.com/s/q3yrzly1a6b7o5r/Week1.pdf?dl=0))
-| 3 | 4/6 | PAC Learning | Chapter 3 | |
+| 3 | 4/6 | PAC Learning ([slides](https://www.dropbox.com/s/2hp40z7fpu9e79t/Lecture3.pdf?dl=0))| Chapter 3 | |
 | 4 | 4/8 | Agnostic PAC Learning | Chapter 4 | |
 | 5 | 4/13 | Uniform Convergence| Chapter 4 | |
 | 6 | 4/15 | Bias-Complexity Tradeoff | Chapter 5, 11 | HW1 Due, HW2 Out |
