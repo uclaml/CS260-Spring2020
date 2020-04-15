@@ -42,7 +42,7 @@ Grades will be computed based on the following factors:
 | 3 | 4/6 | Agnostic PAC Learning ([slides](https://www.dropbox.com/s/2hp40z7fpu9e79t/Lecture3.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/h61d32bdtkz5wem/Lecture3_annotated.pdf?dl=0))| Chapter 3 | |
 | 4 | 4/8 | Uniform Convergence ([slides](https://www.dropbox.com/s/tl3xxu117lmke5g/Lecture4.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/ryz8busg0iulnxa/Lecture4_annotated.pdf?dl=0)) | Chapter 4 | |
 || 4/10 | TA Session Week 2 ([slides](https://www.dropbox.com/s/ah0c0gi9t3avtqa/Week2.pdf?dl=0))|||
-| 5 | 4/13 | Bias-Complexity Tradeoff ([slides](https://www.dropbox.com/s/ptngys3fue0ic2k/Lecture5.pdf?dl=0)) | Chapter 5, 11 | |
+| 5 | 4/13 | Bias-Complexity Tradeoff ([slides](https://www.dropbox.com/s/ptngys3fue0ic2k/Lecture5.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/hraoue74uqwsbme/Lecture5_annotated.pdf?dl=0)) | Chapter 5, 11 | |
 | 6 | 4/15 | VC dimension ([slides](https://www.dropbox.com/s/qho2fjrvivkkniv/Lecture6.pdf?dl=0)) | Chapter 6 | HW1 Due, [HW2 Out](https://www.dropbox.com/s/w72l7xz131ke9t1/HW2.pdf?dl=0) |
 | 7 | 4/20 | VC dimension ([slides](https://www.dropbox.com/s/qho2fjrvivkkniv/Lecture6.pdf?dl=0))| Chapter 6 | |
 | 8 | 4/22 | Nonuniform Learnability | Chapter 7 | |
