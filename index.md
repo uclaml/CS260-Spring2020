@@ -45,7 +45,7 @@ Grades will be computed based on the following factors:
 | 5 | 4/13 | Bias-Complexity Tradeoff ([slides](https://www.dropbox.com/s/ptngys3fue0ic2k/Lecture5.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/hraoue74uqwsbme/Lecture5_annotated.pdf?dl=0)) | Chapter 5, 11 | |
 | 6 | 4/15 | VC dimension ([slides](https://www.dropbox.com/s/qho2fjrvivkkniv/Lecture6.pdf?dl=0)) ([slides_annotated](https://www.dropbox.com/s/ptmevztdjuzyezm/Lecture6a_annotated.pdf?dl=0))  | Chapter 6 | HW1 Due, [HW2 Out](https://www.dropbox.com/s/w72l7xz131ke9t1/HW2.pdf?dl=0) |
 ||4/17| TA Session Week 3 ([slides](https://www.dropbox.com/s/gmns3kg1dmii3j3/Week3.pdf?dl=0))|||
-| 7 | 4/20 | VC dimension ([slides](https://www.dropbox.com/s/qho2fjrvivkkniv/Lecture6.pdf?dl=0)) ([slides annotated])(https://www.dropbox.com/s/xc5unsqes2wk4lz/Lecture6b_annotated.pdf?dl=0)| Chapter 6, 28 | |
+| 7 | 4/20 | VC dimension ([slides](https://www.dropbox.com/s/qho2fjrvivkkniv/Lecture6.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/xc5unsqes2wk4lz/Lecture6b_annotated.pdf?dl=0))| Chapter 6, 28 | |
 | 8 | 4/22 | Nonuniform Learnability | Chapter 7 | |
 | 9 | 4/27 | Perceptron/Linear regression | Chapter 9 | |
 | 10 | 4/29 | Nearest Neighbors | Chapter 19 | HW2 Due, HW3 Out |
