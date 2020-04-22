@@ -49,10 +49,10 @@ Grades will be computed based on the following factors:
 | 8 | 4/22 | Nonuniform Learnability ([slides](https://www.dropbox.com/s/r16kjfli9i9lguu/Lecture7.pdf?dl=0)) | Chapter 7 | |
 | 9 | 4/27 | Perceptron/Linear regression | Chapter 9 | |
 | 10 | 4/29 | Nearest Neighbors | Chapter 19 | HW2 Due, HW3 Out |
-| 11 | 5/4 | Decision Trees | Chapter 18 | |
+| 11 | 5/4 | Decision Trees | Chapter 18 | Project Proposal Due |
 | 12 | 5/6 | Boosting | Chapter 10 | |
 | | 5/11 | Midterm Exam | | |
-| 13 | 5/13 | Convex Learning and SGD | Chapter 12, 14 | Project Proposal Due |
+| 13 | 5/13 | Convex Learning and SGD | Chapter 12, 14 |  |
 | 14 | 5/18 | Regularization Stability | Chapter 13 | HW3 Due, HW4 Out |
 | 15 | 5/20 | Support Vector Machines | Chapter 15 | |
 | | 5/25 | Memorial Day Holiday | | HW4 Due, HW5 Out |
