@@ -46,7 +46,7 @@ Grades will be computed based on the following factors:
 | 6 | 4/15 | VC dimension ([slides](https://www.dropbox.com/s/qho2fjrvivkkniv/Lecture6.pdf?dl=0)) ([slides_annotated](https://www.dropbox.com/s/ptmevztdjuzyezm/Lecture6a_annotated.pdf?dl=0))  | Chapter 6 | HW1 Due, [HW2 Out](https://www.dropbox.com/s/w72l7xz131ke9t1/HW2.pdf?dl=0) |
 ||4/17| TA Session Week 3 ([slides](https://www.dropbox.com/s/gmns3kg1dmii3j3/Week3.pdf?dl=0))|||
 | 7 | 4/20 | VC dimension Cont. ([slides](https://www.dropbox.com/s/qho2fjrvivkkniv/Lecture6.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/xc5unsqes2wk4lz/Lecture6b_annotated.pdf?dl=0))| Chapter 6, 28 | |
-| 8 | 4/22 | Nonuniform Learnability ([slides](https://www.dropbox.com/s/r16kjfli9i9lguu/Lecture7.pdf?dl=0)) | Chapter 7 | |
+| 8 | 4/22 | Nonuniform Learnability ([slides](https://www.dropbox.com/s/r16kjfli9i9lguu/Lecture7.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/6eay3q56xx7mqw5/Lecture7_annotated.pdf?dl=0)) | Chapter 7 | |
 | 9 | 4/27 | Perceptron/Linear regression | Chapter 9 | |
 | 10 | 4/29 | Nearest Neighbors | Chapter 19 | HW2 Due, HW3 Out |
 | 11 | 5/4 | Decision Trees | Chapter 18 | Project Proposal Due |
