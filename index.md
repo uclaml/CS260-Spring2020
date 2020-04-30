@@ -50,6 +50,7 @@ Grades will be computed based on the following factors:
 ||4/24| TA Session Week 4 ([slides](https://www.dropbox.com/s/3mk1b1p3h38ishh/Week4.pdf?dl=0))|||
 | 9 | 4/27 | Perceptron/Linear regression ([slides](https://www.dropbox.com/s/na1gea5xtz83k70/Lecture8.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/lyt1z9htjda38uy/Lecture8_annotated.pdf?dl=0)) | Chapter 9 | |
 | 10 | 4/29 | Nearest Neighbors ([slides](https://www.dropbox.com/s/a3sz9r267h99xx7/Lecture9.pdf?dl=0)) | Chapter 19 | HW2 Due, [HW3 Out](https://www.dropbox.com/s/rs1rtw7tf7lxwlk/homework3.zip?dl=0) |
+|| 5/1 | TA Session Week 5 ([slides](https://www.dropbox.com/s/5c45v8m1ceqx9gh/Week5.pdf?dl=0))|||
 | 11 | 5/4 | Decision Trees ([slides](https://www.dropbox.com/s/rlfcyuxsdj1qx74/Lecture10.pdf?dl=0)) | Chapter 18 | Project Proposal Due |
 | 12 | 5/6 | Boosting | Chapter 10 | |
 | | 5/11 | Midterm Exam | | |
