@@ -53,6 +53,7 @@ Grades will be computed based on the following factors:
 || 5/1 | TA Session Week 5 ([slides](https://www.dropbox.com/s/5c45v8m1ceqx9gh/Week5.pdf?dl=0))|||
 | 11 | 5/4 | Decision Trees ([slides](https://www.dropbox.com/s/rlfcyuxsdj1qx74/Lecture10.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/se1g3lo18se1392/Lecture10_annotated.pdf?dl=0))| Chapter 18 | Project Proposal Due |
 | 12 | 5/6 | Boosting ([slides](https://www.dropbox.com/s/04waxzju22snvm9/Lecture11.pdf?dl=0)) | Chapter 10 | |
+||5/8| TA Session Week6 (slides on CCLE-Week6)|||
 | | 5/11 | Midterm Exam | | |
 | 13 | 5/13 | Convex Learning and SGD | Chapter 12, 14 |  |
 | 14 | 5/18 | Regularization Stability | Chapter 13 | HW3 Due, HW4 Out |
