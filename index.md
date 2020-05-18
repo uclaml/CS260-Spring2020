@@ -52,10 +52,10 @@ Grades will be computed based on the following factors:
 | 10 | 4/29 | Nearest Neighbors ([slides](https://www.dropbox.com/s/a3sz9r267h99xx7/Lecture9.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/amps5b3cual390n/Lecture9_annotated.pdf?dl=0)) | Chapter 19 | HW2 Due, [HW3 Out](https://www.dropbox.com/s/rs1rtw7tf7lxwlk/homework3.zip?dl=0) |
 || 5/1 | TA Session Week 5 ([slides](https://www.dropbox.com/s/5c45v8m1ceqx9gh/Week5.pdf?dl=0))|||
 | 11 | 5/4 | Decision Trees ([slides](https://www.dropbox.com/s/rlfcyuxsdj1qx74/Lecture10.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/se1g3lo18se1392/Lecture10_annotated.pdf?dl=0))| Chapter 18 | Project Proposal Due |
-| 12 | 5/6 | Boosting ([slides](https://www.dropbox.com/s/04waxzju22snvm9/Lecture11.pdf?dl=0)) | Chapter 10 | |
+| 12 | 5/6 | Boosting ([slides](https://www.dropbox.com/s/04waxzju22snvm9/Lecture11.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/apnzqczrkjpuskt/Lecture11_annotated.pdf?dl=0)) | Chapter 10 | |
 ||5/8| TA Session Week6 (slides on CCLE-Week6)|||
 | | 5/11 | Midterm Exam | | |
-| 13 | 5/13 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/rbvq691ds5xvv4t/Lecture12.pdf?dl=0)) | Chapter 12, 14 |  |
+| 13 | 5/13 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/rbvq691ds5xvv4t/Lecture12.pdf?dl=0))([slides annotated_a](https://www.dropbox.com/s/gmdb1ycjrc8z3rw/Lecture12a_annotated.pdf?dl=0)) | Chapter 12, 14 |  |
 ||5/15| TA Session Week7 (slides on CCLE-Week7)|||
 | 14 | 5/18 | Regularization Stability | Chapter 13 | HW3 Due, [HW4 Out](https://www.dropbox.com/s/fr7r20jfx2x3g2k/homework4.zip?dl=0) |
 | 15 | 5/20 | Support Vector Machines | Chapter 15 | |
