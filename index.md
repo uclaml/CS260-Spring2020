@@ -63,8 +63,8 @@ Grades will be computed based on the following factors:
 | 16 | 5/27 | Kernel Methods | Chapter 16 | |
 | 17 | 6/1 | Multi-class Classification | Chapter 17 | |
 | 18 | 6/3 | Clustering | Chapter 22 | HW5 Due |
-| | TBA | Final Project Presentation | |  |
-| | TBA | | | Project Report Due |
+| | 6/10 | Final Project Presentation | |  |
+| | 6/10 | | | Project Report Due |
 
 ## Academic Integrity Policy
 Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
