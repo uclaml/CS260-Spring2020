@@ -59,6 +59,7 @@ Grades will be computed based on the following factors:
 ||5/15| TA Session Week7 (slides on CCLE-Week7)|||
 | 14 | 5/18 | Regularization Stability ([slides](https://www.dropbox.com/s/jiandf0d1fts4du/Lecture13.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/czsqyq2dgwy3oo4/Lecture13_annotated.pdf?dl=0)) | Chapter 13 | HW3 Due, [HW4 Out](https://www.dropbox.com/s/fr7r20jfx2x3g2k/homework4.zip?dl=0) |
 | 15 | 5/20 | Support Vector Machines ([slides](https://www.dropbox.com/s/syoeilzvdghw7jx/Lecture14.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/5n2xnvhagkq1fdw/Lecture14_annotated.pdf?dl=0))| Chapter 15 | |
+||5/22 | TA Session Week8 ([slides](https://www.dropbox.com/s/hp2x3ahron9c4ls/Week8.pdf?dl=0))|||
 | | 5/25 | Memorial Day Holiday | | HW4 Due, HW5 Out |
 | 16 | 5/27 | Kernel Methods | Chapter 16 | |
 | 17 | 6/1 | Multi-class Classification | Chapter 17 | |
