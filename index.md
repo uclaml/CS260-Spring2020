@@ -64,7 +64,7 @@ Grades will be computed based on the following factors:
 | 16 | 5/27 | Kernel Methods ([slides](https://www.dropbox.com/s/wk08zpn7ya187gx/Lecture15.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/f1n3qu3k9wm03ty/Lecture15_annotated.pdf?dl=0))| Chapter 16 | |
 ||5/29| TA Session Week9 ([slides](https://www.dropbox.com/s/t2nbniblsm0dz5i/Week9.pdf?dl=0))|||
 | 17 | 6/1 | Multi-class Classification ([slides](https://www.dropbox.com/s/iwwiefnwggptgo3/Lecture16.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/o2lcmvasw64wcbu/Lecture16_annotated.pdf?dl=0))| Chapter 17 | |
-| 18 | 6/3 | Clustering | Chapter 22 |  |
+| 18 | 6/3 | Clustering ([slides](https://www.dropbox.com/s/pbtywmm9uge1h9e/Lecture17.pdf?dl=0)) | Chapter 22 |  |
 ||6/5| TA Session Week10 | | HW5 Due |
 | | 6/10 | Final Project Presentation | |  |
 | | 6/10 | | | Project Report Due |
