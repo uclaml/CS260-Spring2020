@@ -63,7 +63,7 @@ Grades will be computed based on the following factors:
 | | 5/25 | Memorial Day Holiday | | HW4 Due, [HW5 Out](https://www.dropbox.com/s/8kv12pz2eejy78h/homework5.zip?dl=0) |
 | 16 | 5/27 | Kernel Methods ([slides](https://www.dropbox.com/s/wk08zpn7ya187gx/Lecture15.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/f1n3qu3k9wm03ty/Lecture15_annotated.pdf?dl=0))| Chapter 16 | |
 ||5/29| TA Session Week9 ([slides](https://www.dropbox.com/s/t2nbniblsm0dz5i/Week9.pdf?dl=0))|||
-| 17 | 6/1 | Multi-class Classification ([slides](https://www.dropbox.com/s/iwwiefnwggptgo3/Lecture16.pdf?dl=0)) | Chapter 17 | |
+| 17 | 6/1 | Multi-class Classification ([slides](https://www.dropbox.com/s/iwwiefnwggptgo3/Lecture16.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/o2lcmvasw64wcbu/Lecture16_annotated.pdf?dl=0))| Chapter 17 | |
 | 18 | 6/3 | Clustering | Chapter 22 |  |
 ||6/5| TA Session Week10 | | HW5 Due |
 | | 6/10 | Final Project Presentation | |  |
