@@ -65,7 +65,7 @@ Grades will be computed based on the following factors:
 ||5/29| TA Session Week9 ([slides](https://www.dropbox.com/s/t2nbniblsm0dz5i/Week9.pdf?dl=0))|||
 | 17 | 6/1 | Multi-class Classification ([slides](https://www.dropbox.com/s/iwwiefnwggptgo3/Lecture16.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/o2lcmvasw64wcbu/Lecture16_annotated.pdf?dl=0))| Chapter 17 | |
 | 18 | 6/3 | Clustering ([slides](https://www.dropbox.com/s/pbtywmm9uge1h9e/Lecture17.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/rc133xdmyu89j3s/Lecture17_annotated.pdf?dl=0)) | Chapter 22 |  |
-||6/5| TA Session Week10 | | HW5 Due |
+||6/5| TA Session Week10 ([slides](https://www.dropbox.com/s/5dpysyftmc15hob/Week10.pdf?dl=0)) | | HW5 Due |
 | | 6/10 | Final Project Presentation | |  |
 | | 6/10 | | | Project Report Due |
 
