@@ -66,8 +66,8 @@ Grades will be computed based on the following factors:
 | 17 | 6/1 | Multi-class Classification ([slides](https://www.dropbox.com/s/iwwiefnwggptgo3/Lecture16.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/o2lcmvasw64wcbu/Lecture16_annotated.pdf?dl=0))| Chapter 17 | |
 | 18 | 6/3 | Clustering ([slides](https://www.dropbox.com/s/pbtywmm9uge1h9e/Lecture17.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/rc133xdmyu89j3s/Lecture17_annotated.pdf?dl=0)) | Chapter 22 |  |
 ||6/5| TA Session Week10 ([slides](https://www.dropbox.com/s/5dpysyftmc15hob/Week10.pdf?dl=0)) | | HW5 Due |
-| | 6/10 | Final Project Presentation ([slides](https://www.dropbox.com/sh/cqf8d2t4dcgd76v/AABfCwA-U57PSdKQf999r86ua?dl=0)) | |  |
-| | 6/10 | | | Project Report Due |
+| | 6/10 | Final Project Presentation | |  |
+| | 6/11 | | | Project Report Due |
 
 ## Academic Integrity Policy
 Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
